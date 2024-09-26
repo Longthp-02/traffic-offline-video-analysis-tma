@@ -1,5 +1,4 @@
-# Project Title
-Traffic Offline Video Analysis
+# Traffic Offline Video Analysis
 
 # Description
 The Traffic Offline Video Analysis project addresses the challenge of monitoring and enforcing traffic regulations in urban areas with heavy vehicle traffic, where violations such as red light running and illegal parking are common. Manual identification of offenders can be time-consuming and prone to errors, affecting both traffic flow and road safety. This project aims to develop an AI-based system that automatically analyzes offline traffic footage to detect such violations, reducing the need for human intervention. The system features an AI-powered video analysis engine and a user-friendly website where users can upload videos and review analysis results, making it highly accessible to traffic authorities. Beyond law enforcement, the project contributes to the field of AI-based video analysis, offering a scalable solution for improving road safety and traffic regulation efficiency.
