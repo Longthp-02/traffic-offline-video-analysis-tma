@@ -1,0 +1,76 @@
+{
+  "violations": [
+    {
+      "id": "01",
+      "time": "0:00:36",
+      "type": "Car",
+      "plate": "30A - 92303",
+      "image": "car.jpg",
+      "plateImage": "number.jpg"
+    },
+    {
+      "id": "02",
+      "time": "0:00:36",
+      "type": "Motorbike",
+      "plate": "65H - 16513",
+      "image": "bike.jpg",
+      "plateImage": "number.jpg"
+    },
+    {
+      "id": "03",
+      "time": "0:00:36",
+      "type": "Car",
+      "plate": "30A - 92303",
+      "image": "car.jpg",
+      "plateImage": "number.jpg"
+    },
+    {
+      "id": "04",
+      "time": "0:00:36",
+      "type": "Car",
+      "plate": "30A - 92303",
+      "image": "car.jpg",
+      "plateImage": "number.jpg"
+    },
+    {
+      "id": "05",
+      "time": "0:00:36",
+      "type": "Car",
+      "plate": "30A - 92303",
+      "image": "car.jpg",
+      "plateImage": "number.jpg"
+    } ,
+    {
+      "id": "06",
+      "time": "0:00:36",
+      "type": "Car",
+      "plate": "30A - 92303",
+      "image": "car.jpg",
+      "plateImage": "number.jpg"
+    },
+    {
+      "id": "07",
+      "time": "0:00:36",
+      "type": "Car",
+      "plate": "30A - 92303",
+      "image": "car.jpg",
+      "plateImage": "number.jpg"
+    },
+    {
+      "id": "08",
+      "time": "0:00:36",
+      "type": "Car",
+      "plate": "30A - 92303",
+      "image": "car.jpg",
+      "plateImage": "number.jpg"
+    } ,
+    {
+      "id": "09",
+      "time": "0:00:36",
+      "type": "Car",
+      "plate": "30A - 92303",
+      "image": "car.jpg",
+      "plateImage": "number.jpg"
+    }
+  ]
+}

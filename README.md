@@ -95,3 +95,15 @@ python web/src/main/minio/main.py
 ```
 python web/src/main/main.py
 ```
+
+### Debug Backend
+1. If you encounter an error where certain modules are not found, please uncomment line 8 in both parking_violation.py and traffic_violation.py and modify the path to your virtual environment's site-packages directory:
+```
+# sys.path.append('path\\to\\env\\Lib\\site-packages')
+```
+Replace 'path\\to\\env' with the actual path to your virtual environment.
+2. If you encounter an error related to typing_extensions, resolve it by upgrading the package with the following command:
+```
+pip install --upgrade typing_extensions
+```
+This should now provide clear instructions for debugging module-related issues in your backend system.
