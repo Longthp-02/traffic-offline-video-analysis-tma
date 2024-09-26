@@ -10,10 +10,10 @@ These instructions will get you a copy of the project up and running on your loc
 
 ## Prerequisites
 ### Frontend Requirements
-- [ReactTS](https://react.dev/learn/installation)
-- [Tailwind Css](https://tailwindcss.com/docs/installation)
+- [ReactTS 18.3.1](https://react.dev/learn/installation)
+- [Tailwind Css 3.4.3](https://tailwindcss.com/docs/installation)
 ### Backend Requirements
-- [MinIO](https://min.io/download)
+- [MinIO version RELEASE.2024-08-03T04-33-23Z](https://min.io/download)
 - [Python3.8](https://www.python.org/downloads/release/python-380/)
 
 ## Frontend Installation
@@ -111,5 +111,3 @@ This should now provide clear instructions for debugging module-related issues i
 
 
 https://github.com/user-attachments/assets/64158845-b0b1-42db-bdb3-b3535821919d
-
->>>>>>> 3cc324dbd6eb322918f7e10ef162b65609973b6c
