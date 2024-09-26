@@ -95,3 +95,9 @@ python web/src/main/minio/main.py
 ```
 python web/src/main/main.py
 ```
+
+# Demo
+
+
+https://github.com/user-attachments/assets/64158845-b0b1-42db-bdb3-b3535821919d
+
