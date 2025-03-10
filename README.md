@@ -32,7 +32,7 @@ npm install --legacy-peer-deps
 
 # Running the Frontend
 
-**IMPORTANT: Please run this line to run web for disabling cors**
+**IMPORTANT: Please run this line to run web for disabling CORS**
 ## For Mac
 To disable CORS, run the following command:
 ```
